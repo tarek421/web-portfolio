@@ -13,7 +13,9 @@ h1{
     font-size: 45px;
     font-weight: 600;
 }
-p{color: #4d4b53;}
+p{
+    color: rgba(26, 24, 24, 0.753);
+}
 .left-section span{
     color: orange;
 }
